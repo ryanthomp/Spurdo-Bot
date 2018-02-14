@@ -1,7 +1,19 @@
-# Spurdo-Bot
-A custom bot I made for my discord server with many functionalities.
-# Requirements
+# SpurdoBot
+### Requires:
+- Python 3.5
+- [discord.py](https://github.com/rapptz/discord.py)
+- too many python modules
 
-Python 3.6.4
-discord.py
+***Help Server Comin Soon***
 
+**Bot Invite**: `https://discordapp.com/oauth2/authorize?client_id=355008144101081088&scope=bot&permissions=8`
+
+I won't mind if you take some code to learn or but don't no steal :triumph:
+**Some Extra Stuff**
+*Owner* Feel free to ask me questions, Ryan_Thomp#1488 on Discord.
+*Brethren* 
+```json
+    StatBot#8042 <402870672906518528> [Beta]
+    DiscordStats#7451 <404016185613484033> [Alpha]
+    TardBot#6148 <401040161787609089> [Beta]
+```
