@@ -16,7 +16,7 @@ I won't mind if you take some code to learn or but don't steal.
 
 *Brethren* 
 ```json
-    \tStatBot#8042 <402870672906518528> [Beta]
-    \tDiscordStats#7451 <404016185613484033> [Alpha]
-    \tTardBot#6148 <401040161787609089> [Beta]
+    StatBot#8042 <402870672906518528> [Beta]
+    DiscordStats#7451 <404016185613484033> [Alpha]
+    TardBot#6148 <401040161787609089> [Beta]
 ```
