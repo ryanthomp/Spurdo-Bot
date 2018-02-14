@@ -9,6 +9,7 @@
 **Bot Invite**: `https://discordapp.com/oauth2/authorize?client_id=355008144101081088&scope=bot&permissions=8`
 
 I won't mind if you take some code to learn or but don't no steal :triumph:
+
 **Some Extra Stuff**
 *Owner* Feel free to ask me questions, Ryan_Thomp#1488 on Discord.
 *Brethren* 
